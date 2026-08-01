@@ -20,7 +20,7 @@ export function TopNav() {
       <div className="mx-auto flex max-w-[1400px] items-center gap-6 px-4 py-2.5 sm:px-6">
         <Link href="/" className="flex items-center gap-2 font-mono text-sm text-text-primary shrink-0">
           <span className="text-accent">$</span>
-          <span>log-analyzer</span>
+          <span>logdeck</span>
         </Link>
 
         <nav className="flex items-center gap-1">
