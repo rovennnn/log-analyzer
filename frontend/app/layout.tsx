@@ -24,7 +24,7 @@ const plexSans = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "log-analyzer",
+  title: "Logwatch",
   description: "Ops dashboard for triaging application logs — traffic, errors, and slow endpoints.",
 };
 
